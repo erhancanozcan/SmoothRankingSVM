@@ -10,7 +10,12 @@ This paper proposes a prototype learning approach based on cutting-plane method 
 Please consider citing our paper as follows:
 
 ```
-TO COME
+@article{ozcan2024smooth,
+  title={Smooth Ranking SVM via Cutting-Plane Method},
+  author={Ozcan, Erhan Can and G{\"o}rg{\"u}l{\"u}, Berk and Baydogan, Mustafa G and Paschalidis, Ioannis Ch},
+  journal={arXiv preprint arXiv:2401.14388},
+  year={2024}
+}
 ``` 
 
 
